@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Energy Plan
 
-![Plan](https://github.com/jwyew/jwyew.github.io/blob/master/plan.png)
+![Plan](plan.png)
 
 ### Markdown
 
