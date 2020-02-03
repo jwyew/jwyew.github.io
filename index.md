@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/jwyew/jwyew.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Energy Plan
+
+![Plan](https://github.com/jwyew/jwyew.github.io/blob/master/plan.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
