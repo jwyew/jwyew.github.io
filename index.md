@@ -7,7 +7,7 @@ Choose one of the following energy plans or even customized one to power your ho
 
 ![Plan](plan.png)
 
-Unsure of your monthly electricity consumption, you can refere to SP Power
+Unsure of your monthly electricity consumption, you may refer to [SP Power](https://www.spgroup.com.sg/what-we-do/billing) as gauge.
 
 ### Interested
 
