@@ -15,3 +15,5 @@ Unsure of your monthly electricity consumption, you may refer to <a href="https:
 Fill up this form to register your interest
 
 {% include survey.js %}
+
+{% include survey_new.js %}
